@@ -110,7 +110,7 @@ Os prints completos, com as citações clicáveis, estão em [`/prints`](Materia
 ### 5. Pra quem começa agora, Shorts ou vídeo longo chega antes na monetização?
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/05-shorts-vs-longo.png`](Materiais/Prints/05-reutilizados-vs-inautentico.png)
+**Print:** [`prints/05-shorts-vs-longo.png`](Materiais/Prints/05-shorts-vs-longo.png)
 
 ### 6. Monte um plano de 90 dias pra um canal dark em crime e investigação e outro de motivação, usando só o que as fontes sustentam. Diga qual faria primeiro e por quê.
 **Resposta (resumo):** [...]
