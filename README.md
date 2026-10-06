@@ -85,37 +85,37 @@ Por que essa diretriz: num tema cheio de promessa, o maior risco é o notebook m
 
 ## Perguntas, respostas e de onde veio cada uma
 
-Os prints completos, com as citações clicáveis, estão em [`/prints`](./prints).
+Os prints completos, com as citações clicáveis, estão em [`/prints`](./materiais/prints).
 
 ### 1. Quais são os requisitos pra entrar no YPP hoje e o que muda em 01/02/2027?
 **Resposta (resumo):** [2–4 linhas com o que o notebook respondeu]
 **Fontes citadas:** [ex.: #1, #3]
-**Print:** [`prints/01-requisitos-ypp.png`](./prints/01-requisitos-ypp.png)
+**Print:** [`prints/01-requisitos-ypp.png`](./materiais/prints/01-requisitos-ypp.png)
 
 ### 2. O que conta como hora e view "qualificada"? Hora assistida em Shorts soma pras horas de vídeo longo?
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/02-horas-qualificadas.png`](./prints/02-horas-qualificadas.png)
+**Print:** [`prints/02-horas-qualificadas.png`](./materiais/prints/02-horas-qualificadas.png)
 
 ### 3. Um canal com roteiro, voz e imagem 100% feitos por IA pode ser monetizado?
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/03-canal-ia.png`](./prints/03-canal-ia.png)
+**Print:** [`prints/03-canal-ia.png`](./materiais/prints/03-canal-ia.png)
 
 ### 4. Em quais pontos as fontes de criadores contradizem as políticas oficiais?
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/04-conflitos.png`](./prints/04-conflitos.png)
+**Print:** [`prints/04-conflitos.png`](./materiais/prints/04-conflitos.png)
 
 ### 5. Pra quem começa agora, Shorts ou vídeo longo chega antes na monetização?
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/05-shorts-vs-longo.png`](./prints/05-shorts-vs-longo.png)
+**Print:** [`prints/05-shorts-vs-longo.png`](./materiais/prints/05-shorts-vs-longo.png)
 
 ### 6. Monte um plano de 90 dias pra um canal dark em crime e investigação e outro de motivação, usando só o que as fontes sustentam. Diga qual faria primeiro e por quê.
 **Resposta (resumo):** [...]
 **Fontes citadas:** [...]
-**Print:** [`prints/06-plano-90-dias.png`](./prints/06-plano-90-dias.png)
+**Print:** [`prints/06-plano-90-dias.png`](./materiais/prints/06-plano-90-dias.png)
 
 ### 7. Para cada criador: a promessa confirma, contradiz ou vai além da regra oficial?
 **Resposta (resumo):** Dois criadores contradizem a regra (Peter Jordan no vídeo #13 e Jack Craig), um tangencia o conflito (Peter Jordan no #14), vidIQ confirma com alerta, e os demais confirmam ou vão além sem risco. Detalhes na seção de conflitos abaixo.
