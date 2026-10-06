@@ -1,6 +1,3 @@
-# segundo-cerebro-canal-dark
-Segundo cérebro no Gemini Notebook (NotebookLM) sobre canal dark no YouTube: separa a regra oficial de monetização da promessa de criador, com fontes citadas, análise hype × regra por criador e os requisitos do YPP de 2027.
-
 # Segundo cérebro: canal dark no YouTube, do hype à monetização real
 
 Notebook no **Gemini Notebook** (o antigo NotebookLM), alimentado só com fontes que eu escolhi, pra responder uma pergunta que a internet responde mal: qual é o caminho mais curto **que funciona de verdade** pra monetizar um canal dark no YouTube.
@@ -47,17 +44,28 @@ Todas as fontes foram adicionadas ao notebook direto pelo link: páginas oficiai
 | 13 | [COMO CRIAR UM CANAL NO YOUTUBE SEM MOSTRAR O ROSTO E FATURAR COM ELE [passo a passo completo] — Nerds de Negócios](https://www.youtube.com/watch?v=eSKfVtplQDk) | Vídeo | Criador | Passo a passo de canal sem rosto em português, da criação ao faturamento. |
 | 14 | [CANAL DARK - DA CRIAÇÃO A MONETIZAÇÃO [PASSO A PASSO COMPLETO] — Nerds de Negócios](https://www.youtube.com/watch?v=jCYcv0z73Qg) | Vídeo | Contraponto | Discurso típico de canal dark em português, com venda de curso no vídeo. Entrou de propósito, pra testar onde a promessa bate de frente com a regra oficial. |
 | 15 | [Net Influencer: YouTube encerra os canais de trailers falsos com IA](https://www.netinfluencer.com/?p=41833) | Site (inglês) | Contrapeso | Contra o viés de sobrevivência: dois canais gigantes de IA desmonetizados e depois removidos. |
+| 16 | [TechCrunch: YouTube prepara ofensiva contra vídeos "produzidos em massa" e "repetitivos"](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows) | Site (inglês) | Imprensa | Cobertura da atualização de julho de 2025, com o esclarecimento do Creator Liaison sobre o que muda e o que não muda. |
+| 17 | [Net Influencer: YouTube desmonetiza canais de trailers falsos feitos com IA](https://www.netinfluencer.com/youtube-demonetizes-channels-behind-ai-generated-movie-trailers/) | Site (inglês) | Contrapeso | Primeira etapa do caso da fonte #15: a desmonetização, antes do encerramento dos canais. |
+
+### Por que confio nelas (e até onde)
+
+A confiança não é igual pra todas, e a diretriz do notebook trata cada tipo de um jeito:
+
+- **Oficiais (#1 a #6):** são a própria regra. Help Center e blog do YouTube são a fonte primária da política, e o Creator Liaison fala em nome da plataforma. Quando há conflito, valem estas.
+- **Imprensa (#7 e #16):** veículos de tecnologia e creator economy que datam a notícia e citam o anúncio oficial. Servem pra dar contexto e mostrar a reação dos criadores, não substituem a regra.
+- **Criadores (#8 a #13):** trazem resultado do próprio canal e tática testada na prática. Entram como TÁTICA, nunca como REGRA: cada afirmação deles foi checada contra as fontes oficiais, como mostra a seção de conflitos.
+- **Contraponto e Contrapeso (#14, #15 e #17):** não estão aqui porque eu confio no conselho, e sim como objeto de análise. Um representa o discurso de promessa; os outros documentam o que acontece quando a regra é ignorada.
 
 ### Critério de entrada
 
 Uma fonte entrou se cumpriu pelo menos uma destas condições:
 
 1. **É oficial do YouTube** (Help Center, blog oficial ou porta-voz do YouTube).
-2. **O criador prova o que fala**, mostrando o YouTube Studio do próprio canal, não só um print de faturamento.
+2. **O criador mostra resultado, não só promessa:** números do próprio canal, métricas ou um caso documentado que dá pra conferir contra a regra oficial.
 
-E também precisava ser **recente o bastante pro que afirma**: requisito de monetização só valeu se fosse posterior a 10/08/2026, e assunto de IA só se fosse posterior a 15/07/2025.
+E também precisava ser **recente o bastante pro que afirma**: requisito de monetização só valeu se fosse posterior ao anúncio de 10/08/2026, e assunto de IA só se fosse a partir do anúncio da política de conteúdo inautêntico, em julho de 2025.
 
-Ficou de fora qualquer fonte que ensina reupload ou compilação de conteúdo alheio, que existe só pra vender curso no final, ou que promete prazo e valor sem mostrar dado. A exceção é a fonte marcada como **Contraponto**: entrou justamente por representar esse discurso, pra que o notebook mostre onde ele contradiz a regra oficial.
+Ficou de fora qualquer fonte que ensina reupload ou compilação de conteúdo alheio, que existe só pra vender curso no final, ou que promete prazo e valor sem mostrar dado. As exceções são as fontes marcadas como **Contraponto** e **Contrapeso**: entraram justamente por representar esse discurso ou por documentar um caso real, pra que o notebook mostre onde a promessa contradiz a regra oficial.
 
 Os vídeos de criadores foram buscados em aba anônima, pra que o algoritmo não escolhesse por mim. O Deep Research sugeriu fontes extras, e só importei as que passaram nesse filtro.
 
@@ -85,43 +93,71 @@ Por que essa diretriz: num tema cheio de promessa, o maior risco é o notebook m
 
 ## Perguntas, respostas e de onde veio cada uma
 
-Os prints completos, com as citações clicáveis, estão em [`/prints`](Materiais/Prints).
+Cada print em [`Materiais/Prints`](Materiais/Prints) mostra a pergunta, a resposta com os números de citação e uma citação aberta, com o trecho exato da fonte que sustentou a resposta.
 
 ### 1. Quais são os requisitos pra entrar no YPP hoje e o que muda em 01/02/2027?
-**Resposta (resumo):** [2–4 linhas com o que o notebook respondeu]
-**Fontes citadas:** [ex.: #1, #3]
-**Print:** [`prints/01-requisitos-ypp.png`](Materiais/Prints/01-requisitos-ypp.png)
+
+**Resposta (resumo):** Hoje: 1.000 inscritos + 4.000 horas públicas em 12 meses ou 10 milhões de views qualificadas em Shorts em 90 dias, além de verificação em duas etapas, nenhum strike e AdSense vinculado. A faixa inicial (fan funding e Shopping) pede 500 inscritos + 3.000 horas ou 3 milhões de views em Shorts. A partir de 01/02/2027, canais novos precisam de 8.000 horas em 365 dias ou 20 milhões de views em Shorts em 90 dias, e a faixa inicial não muda. Quem já está no YPP continua monetizando vídeo longo, mas precisa manter 10 milhões de views em Shorts a cada 90 dias pra receber a receita de Shorts e aceitar os novos termos até 31/01/2027.
+
+**Fontes citadas:** #1, #2, #3, #7, #11, #13, #14
+
+**Print:** [`Materiais/Prints/01-requisitos-ypp.png`](Materiais/Prints/01-requisitos-ypp.png)
 
 ### 2. O que conta como hora e view "qualificada"? Hora assistida em Shorts soma pras horas de vídeo longo?
-**Resposta (resumo):** [...]
-**Fontes citadas:** [...]
-**Print:** [`prints/02-horas-qualificadas.png`](Materiais/Prints/02-horas-qualificadas.png)
+
+**Resposta (resumo):** Hora qualificada vem de vídeos longos públicos (podcasts incluídos) e de lives públicas arquivadas. Não contam vídeos privados, não listados ou excluídos, tráfego de anúncio pago nem Shorts. View qualificada é a view engajada de um Short público no feed de Shorts, sem contar loops, anúncios, views vindas de vídeo longo nem posts de imagem. Hora assistida em Shorts não soma pras horas de vídeo longo, porque são dois medidores separados. Como tática, os criadores sugerem linkar o Short ao vídeo longo pra levar tráfego até ele.
+
+**Fontes citadas:** #1, #5, #8, #11, #14
+
+**Print:** [`Materiais/Prints/02-horas-qualificadas.png`](Materiais/Prints/02-horas-qualificadas.png)
 
 ### 3. Um canal com roteiro, voz e imagem 100% feitos por IA pode ser monetizado?
-**Resposta (resumo):** [...]
-**Fontes citadas:** [...]
-**Print:** [`prints/03-canal-ia.png`](Materiais/Prints/03-canal-ia.png)
+
+**Resposta (resumo):** Em tese, sim: o YouTube não proíbe IA. O que não monetiza é conteúdo de IA feito em template, com cara de produção em massa e sem perspectiva própria do criador. É isso que a política de "Conteúdo Inautêntico" define (o nome mudou em 15/07/2025). Personas de IA dando conselho de saúde, finanças, direito ou política são proibidas. Conteúdo fotorrealista gerado ou alterado por IA precisa ser declarado, e declarar não reduz alcance nem monetização. Quando algum criador diz que usa IA 100% sem se preocupar, o notebook conclui que vale a regra oficial.
+
+**Fontes citadas:** #1, #2, #3, #4, #7, #13, #14, #16
+
+**Print:** [`Materiais/Prints/03-canal-ia.png`](Materiais/Prints/03-canal-ia.png)
 
 ### 4. Em quais pontos as fontes de criadores contradizem as políticas oficiais?
-**Resposta (resumo):** [...]
-**Fontes citadas:** [...]
-**Print:** [`prints/04-conflitos.png`](Materiais/Prints/04-conflitos.png)
+
+**Resposta (resumo):** O notebook aponta quatro pontos:
+1. Criadores que dizem que não precisa revisar roteiro, ou que pregam automação em massa, contra as políticas de conteúdo inautêntico e reutilizado.
+2. Canais de trailer falso feito com IA (Screen Culture, KH Studio) que se defenderam com avisos de "concept trailer", mas foram desmonetizados e depois encerrados por spam e metadados enganosos.
+3. Reaproveitar vídeo viral de terceiros com edição superficial, contra a política de conteúdo reutilizado.
+4. A crença de que declarar IA derruba o alcance, contra a regra que diz que não derruba.
+
+Nos quatro casos, a conclusão é que vale a regra oficial.
+
+**Fontes citadas:** #1, #2, #3, #4, #7, #8, #9, #11, #13, #14, #15, #17
+
+**Print:** [`Materiais/Prints/04-conflitos.png`](Materiais/Prints/04-conflitos.png)
 
 ### 5. Pra quem começa agora, Shorts ou vídeo longo chega antes na monetização?
-**Resposta (resumo):** [...]
-**Fontes citadas:** [...]
-**Print:** [`prints/05-shorts-vs-longo.png`](Materiais/Prints/05-shorts-vs-longo.png)
+
+**Resposta (resumo):** O notebook diz que vídeo longo é o caminho mais previsível. 8.000 horas são 480 mil minutos, o que com 3 vídeos por semana e 5 minutos de retenção dá cerca de 615 views por vídeo. Já 20 milhões de views em Shorts em 90 dias exigem mais de 220 mil views qualificadas por dia, num feed volátil. A recomendação é um modelo híbrido, com Shorts levando público pro vídeo longo. O notebook também lembra que as contagens são separadas e que Shorts automatizados em massa caem na política de conteúdo inautêntico.
+
+**Fontes citadas:** #1, #2, #3, #5, #7, #8, #9, #11, #12, #14
+
+**Print:** [`Materiais/Prints/05-shorts-vs-longo.png`](Materiais/Prints/05-shorts-vs-longo.png)
 
 ### 6. Monte um plano de 90 dias pra um canal dark em crime e investigação e outro de motivação, usando só o que as fontes sustentam. Diga qual faria primeiro e por quê.
-**Resposta (resumo):** [...]
-**Fontes citadas:** [...]
-**Print:** [`prints/06-plano-90-dias.png`](Materiais/Prints/06-plano-90-dias.png)
+
+**Resposta (resumo):** O notebook escolhe começar por crime e investigação, por três motivos: CPM maior (US$ 8–18, contra US$ 6–15 em motivação), formato longo e documental que segura retenção e horas, e menos risco de cair em conteúdo inautêntico, porque motivação está saturada de templates. O plano de crime tem 4 fases: mineração de outliers e setup, roteiros de 15–25 min com ganchos e loops, publicação 2–3 vezes por semana com Shorts e playlists, e acompanhamento das métricas até o pedido de YPP. O de motivação foca em micronicho, voz fixa, edição dinâmica, teste A/B de thumbnail, faixa inicial do YPP e links de afiliado.
+
+**Fontes citadas:** #1, #2, #4, #8, #11, #12, #13, #14
+
+**Print:** [`Materiais/Prints/06-plano-90-dias.png`](Materiais/Prints/06-plano-90-dias.png)
 
 ### 7. Para cada criador: a promessa confirma, contradiz ou vai além da regra oficial?
+
 **Resposta (resumo):** Dois criadores contradizem a regra (Peter Jordan no vídeo #13 e Jack Craig), um tangencia o conflito (Peter Jordan no #14), vidIQ confirma com alerta, e os demais confirmam ou vão além sem risco. Detalhes na seção de conflitos abaixo.
+
 **Fontes citadas:** #2, #3, #5, #6, #8 a #14
-**Print:** [`prints/07-hype-vs-regra-por-criador.png`](Materiais/Prints/07-hype-vs-regra-por-criador.png)
-**Resposta completa:** [`materiais/relatorio-hype-vs-regra-por-criador.md`](Materiais/relatorio-hype-vs-regra-por-criador.md)
+
+**Print:** [`Materiais/Prints/07-hype-vs-regra-por-criador.png`](Materiais/Prints/07-hype-vs-regra-por-criador.png)
+
+**Resposta completa:** [`Materiais/relatorio-hype-vs-regra-por-criador.md`](Materiais/relatorio-hype-vs-regra-por-criador.md)
 
 ---
 
@@ -163,17 +199,17 @@ Tudo nesta pasta foi gerado pelo próprio Gemini Notebook a partir das fontes ac
 ```
 segundo-cerebro-canal-dark/
 ├── README.md
-├── materiais/
-│   ├── mapa-mental.png
-│   ├── slides.pdf
-│   ├── relatorio-estrategico-canal-dark.pdf
-│   └── relatorio-hype-vs-regra-por-criador.md
-└── prints/
-    ├── 01-requisitos-ypp.png
-    ├── 02-horas-qualificadas.png
-    ├── 03-canal-ia.png
-    ├── 04-conflitos.png
-    ├── 05-shorts-vs-longo.png
-    ├── 06-plano-90-dias.png
-    └── 07-hype-vs-regra-por-criador.png
+└── Materiais/
+    ├── mapa-mental.png
+    ├── slides.pdf
+    ├── relatorio-estrategico-canal-dark.pdf
+    ├── relatorio-hype-vs-regra-por-criador.md
+    └── Prints/
+        ├── 01-requisitos-ypp.png
+        ├── 02-horas-qualificadas.png
+        ├── 03-canal-ia.png
+        ├── 04-conflitos.png
+        ├── 05-shorts-vs-longo.png
+        ├── 06-plano-90-dias.png
+        └── 07-hype-vs-regra-por-criador.png
 ```
