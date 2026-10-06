@@ -150,10 +150,10 @@ O detalhe que mais me chamou atenção: o mesmo criador, Peter Jordan, aparece c
 
 Tudo nesta pasta foi gerado pelo próprio Gemini Notebook a partir das fontes acima.
 
-- [Mapa mental](./materiais/mapa-mental.png): caminho até a monetização em 4 ramos (requisitos, horas qualificadas, riscos e táticas), separando regra oficial de recomendação de criador.
-- [Slides](./materiais/slides.pdf): apresentação que abre com a promessa de "monetizar em 30 dias" e desmonta com a regra oficial.
-- [Relatório estratégico: Strategic Blueprint for Scaling Faceless (Dark) YouTube Operations](./materiais/relatorio-estrategico-canal-dark.pdf) ([versão no Google Docs](https://docs.google.com/document/d/1LxtSLJ_JpR8BvpYgpPUvjBhhJwxGS1MUg5ig2avsl18/edit?usp=sharing)): relatório completo gerado pelo notebook, com cada afirmação marcada como REGRA, TÁTICA ou OPINIÃO, seguindo a diretriz. Antes mesmo da pergunta 7, ele já apontava sozinho os conflitos de Jack Craig e Peter Jordan com a política oficial.
-- [Relatório hype × regra por criador](./materiais/relatorio-hype-vs-regra-por-criador.md): resposta completa da pergunta 7, com a promessa de cada criador, a regra oficial correspondente, o veredito e o risco.
+- [Mapa mental](Materiais/mapa-mental.png): caminho até a monetização em 4 ramos (requisitos, horas qualificadas, riscos e táticas), separando regra oficial de recomendação de criador.
+- [Slides](Materiais/slides.pdf): apresentação que abre com a promessa de "monetizar em 30 dias" e desmonta com a regra oficial.
+- [Relatório estratégico: Strategic Blueprint for Scaling Faceless (Dark) YouTube Operations](Materiais/relatorio-estrategico-canal-dark.pdf) ([versão no Google Docs](https://docs.google.com/document/d/1LxtSLJ_JpR8BvpYgpPUvjBhhJwxGS1MUg5ig2avsl18/edit?usp=sharing)): relatório completo gerado pelo notebook, com cada afirmação marcada como REGRA, TÁTICA ou OPINIÃO, seguindo a diretriz. Antes mesmo da pergunta 7, ele já apontava sozinho os conflitos de Jack Craig e Peter Jordan com a política oficial.
+- [Relatório hype × regra por criador](Materiais/relatorio-hype-vs-regra-por-criador.md): resposta completa da pergunta 7, com a promessa de cada criador, a regra oficial correspondente, o veredito e o risco.
 - [Relatório interativo](https://notebooklm.link.google/j32UNTcXeKF9): guia em inglês sobre canais dark no YouTube que separa regra oficial, tática e opinião de criador sobre monetização, YPP, nicho e produção com IA.
 
 ---
